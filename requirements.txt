@@ -1,9 +1,9 @@
 fastapi==0.104.1
 uvicorn==0.24.0
-torch==2.1.0
-torchvision==0.16.0
+torch==2.9.0
+torchvision==0.20.0
 einops==0.7.0
 Pillow==10.1.0
 python-multipart==0.0.6
-numpy==1.24.0
+numpy==1.26.0
 gdown==4.7.1
